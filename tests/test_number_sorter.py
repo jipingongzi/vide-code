@@ -3,7 +3,7 @@
 """
 
 import unittest
-from number_sorter import (
+from src.number_sorter import (
     sort_numbers_builtin,
     quick_sort,
     merge_sort,

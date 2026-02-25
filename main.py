@@ -4,7 +4,7 @@
 演示如何使用数字排序模块
 """
 
-from number_sorter import sort_numbers
+from src.number_sorter import sort_numbers
 
 
 def main():
